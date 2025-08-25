@@ -11,7 +11,6 @@ Aqui você encontra os melhores itens exclusivos disponíveis com moeda VIP.
 - 🧙‍♀️ Chapéu de Bruxa (ID 19528) — 25 KM  
 - 🗿 Totem (ID 1276) — 45 KM  
 
-👉 `https://seu-usuario.github.io/loja-vip/index.html`
 
 ---
 
